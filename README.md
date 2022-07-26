@@ -34,11 +34,11 @@ The following image shows the web application's appearance and functionality:
 
 ## GitHub repository for Bootcamp Challenge 6
 ---
-[Github Repo](https://github.com/RFox01/horiseon)
+[Github Repo](https://github.com/RFox01/Weather-Application)
 
 ## Depoly website for Challenge 6
 ---
-[Website](https://rfox01.github.io/Horiseon/)
+[Website](https://rfox01.github.io/Weather-Application/)
 
 ## License
 ---
